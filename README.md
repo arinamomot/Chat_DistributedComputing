@@ -1,9 +1,9 @@
-# Semestrální práce DSV - "ChatApp"
+ChatApp
 
 ## Stručný popis zadání
 Program umožnující zasílání zpráv mezi jednotlivými uzly. Zprávy bude vždy možné v rámci celého systému úplně uspořádat (k synchronizaci použijte buď 'vůdce' nebo výlučný přístup v rámci celého systému). Jednotlivé uzly budou implementovat minimálně tyto funkce: pošli/přijmi zprávu, odhlaš se ze systému, skonči bez odhlášení, přihlaš se do systému.
 
-## Popis semestrální práce
+## Popis
 
 **"ChatApp"** - aplikace umožnující chatování mezi dvěma a více uzly. 
 
